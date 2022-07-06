@@ -1,26 +1,7 @@
 <html>
 <body>
 <center>
-<style> 
-
- 	.myimg { 
-
- 		margin: 5px; 
-
- 		border-style: solid; 
-
- 		border-radius: 45px; 
-
- 		border-color: green; 
-
- 		height: 150px; 
-
- 		width: 30%; 
-
- 	} 
-
- </style> 
- 	<img class=myimg src="https://i.ibb.co/pjzD0sd/inbound980191521.png" /> 
+ 	<img src="https://i.ibb.co/pjzD0sd/inbound980191521.png" /> 
 <h1>Hi there 👋</h1>
 
 <b><h3>YOU KNOW !!HACKING BY Mr-K9!!</h3></b>
